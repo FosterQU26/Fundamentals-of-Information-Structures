@@ -1,0 +1,1 @@
+  -L"C:/Users/foste/Downloads/mingw64-13.1.0/mingw64/opt/lib"  -lncursesw -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

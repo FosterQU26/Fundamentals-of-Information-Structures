@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/foste/Downloads/assignment/build",
+  "command": "C:\\Users\\foste\\Downloads\\mingw64-13.1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\model.dir\\model.c.obj -c C:\\Users\\foste\\Downloads\\assignment\\model.c",
+  "file": "C:/Users/foste/Downloads/assignment/model.c",
+  "output": "CMakeFiles/model.dir/model.c.obj"
+},
+{
+  "directory": "C:/Users/foste/Downloads/assignment/build",
+  "command": "C:\\Users\\foste\\Downloads\\mingw64-13.1.0\\mingw64\\bin\\gcc.exe  @CMakeFiles/interactive.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\interactive.dir\\interface.c.obj -c C:\\Users\\foste\\Downloads\\assignment\\interface.c",
+  "file": "C:/Users/foste/Downloads/assignment/interface.c",
+  "output": "CMakeFiles/interactive.dir/interface.c.obj"
+},
+{
+  "directory": "C:/Users/foste/Downloads/assignment/build",
+  "command": "C:\\Users\\foste\\Downloads\\mingw64-13.1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\testrunner.dir\\testrunner.c.obj -c C:\\Users\\foste\\Downloads\\assignment\\testrunner.c",
+  "file": "C:/Users/foste/Downloads/assignment/testrunner.c",
+  "output": "CMakeFiles/testrunner.dir/testrunner.c.obj"
+},
+{
+  "directory": "C:/Users/foste/Downloads/assignment/build",
+  "command": "C:\\Users\\foste\\Downloads\\mingw64-13.1.0\\mingw64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\testrunner.dir\\tests.c.obj -c C:\\Users\\foste\\Downloads\\assignment\\tests.c",
+  "file": "C:/Users/foste/Downloads/assignment/tests.c",
+  "output": "CMakeFiles/testrunner.dir/tests.c.obj"
+}
+]
